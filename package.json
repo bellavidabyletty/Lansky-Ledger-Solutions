@@ -1,16 +1,16 @@
-
 {
-  "name": "lansky-ledger-solutions",
-  "version": "2.5.0",
-  "private": true,
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "dependencies": {
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
-    "lucide-react": "^0.563.0",
-    "recharts": "^3.7.0",
-    "@google/genai": "^1.39.0"
-  }
+    "name": "lansky-ledger-solutions",
+    "version": "2.5.0",
+    "private": true,
+    "engines": {
+          "node": ">=18.0.0"
+    },
+    "dependencies": {
+          "react": "^19.2.4",
+          "react-dom": "^19.2.4",
+          "lucide-react": "^0.563.0",
+          "recharts": "^3.7.0",
+          "@google/genai": "^1.39.0",
+          "@supabase/supabase-js": "^2.38.0"
+    }
 }
